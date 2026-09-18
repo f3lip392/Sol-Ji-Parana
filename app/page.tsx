@@ -1,0 +1,2 @@
+import Link from "next/link";
+export default function Home(){return <main><header><h1>SOL Serviços de Oftalmologia LTDA</h1><p className="muted">Documentos institucionais — Ji-Paraná/RO</p></header><div className="box">Consulte nossos documentos:</div><ul><li><Link href="/politica-de-privacidade">Política de Privacidade</Link></li><li><Link href="/termos-de-servico">Termos de Serviço</Link></li></ul><footer>Documento disponibilizado para acesso público.</footer></main>}
