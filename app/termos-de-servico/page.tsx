@@ -1,0 +1,13 @@
+export default function Terms(){return <main><header><h1>Termos de Serviço</h1><p className="muted">SOL SERVICOS DE OFTALMOLOGIA LTDA — CNPJ 00.898.428/0008-70</p><p className="muted">Última atualização: 18 de setembro de 2026</p></header>
+<h2>1. Objeto</h2><p>Estes Termos regulam o uso dos canais digitais e dos serviços de atendimento disponibilizados pela SOL Serviços de Oftalmologia, inclusive canais de comunicação utilizados para informações, solicitações e agendamentos.</p>
+<h2>2. Uso dos canais</h2><p>O usuário deve fornecer informações verdadeiras e utilizar os canais de forma lícita, respeitosa e compatível com sua finalidade. O envio de informações de terceiros sem autorização ou base legal adequada deve ser evitado.</p>
+<h2>3. Atendimento e informações de saúde</h2><p>Os canais digitais destinam-se à comunicação e organização de serviços. Mensagens digitais não substituem avaliação médica presencial ou atendimento de emergência. Em situações de urgência, o usuário deve procurar imediatamente um serviço de emergência adequado.</p>
+<h2>4. Agendamentos</h2><p>Solicitações de agendamento estão sujeitas à disponibilidade e à confirmação pelos canais oficiais. O envio de uma mensagem não implica, por si só, confirmação de consulta ou procedimento.</p>
+<h2>5. Conteúdo enviado pelo usuário</h2><p>O usuário é responsável pelas informações e arquivos que encaminhar. Dados pessoais e documentos devem ser enviados somente quando necessários ao atendimento ou quando solicitados por canal oficial.</p>
+<h2>6. Serviços de terceiros</h2><p>Alguns recursos de comunicação podem depender de plataformas de terceiros, como serviços de mensagens, hospedagem e tecnologia. O uso desses serviços também está sujeito aos termos e políticas de seus respectivos fornecedores.</p>
+<h2>7. Privacidade</h2><p>O tratamento de dados pessoais realizado pela SOL Serviços de Oftalmologia é descrito na <a href="/politica-de-privacidade">Política de Privacidade</a>.</p>
+<h2>8. Disponibilidade</h2><p>Buscamos manter os canais disponíveis, mas não garantimos funcionamento ininterrupto, podendo ocorrer indisponibilidades por manutenção, falhas de terceiros ou eventos fora de nosso controle.</p>
+<h2>9. Alterações</h2><p>Estes Termos poderão ser atualizados quando necessário. A versão vigente ficará disponível nesta página.</p>
+<h2>10. Contato</h2><p>Para informações sobre os serviços, utilize os canais oficiais de atendimento da SOL Serviços de Oftalmologia.</p>
+<footer>Ao utilizar os canais digitais da SOL Serviços de Oftalmologia, o usuário declara estar ciente destes Termos.</footer>
+</main>}
