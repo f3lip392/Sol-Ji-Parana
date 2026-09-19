@@ -39,7 +39,7 @@ export default function Home() {
           <a href="#sobre">A clínica</a>
           <a href="#servicos">Serviços</a>
           <a href="#contato">Contato</a>
-          <a className="nav-cta" href="tel:+556932298039">Ligar agora</a>
+          <a className="nav-cta" href="tel:+556921831940">Ligar agora</a>
         </nav>
       </header>
 
@@ -53,7 +53,7 @@ export default function Home() {
             oftalmológicos.
           </p>
           <div className="hero-actions">
-            <a className="button primary" href="tel:+556932298039">Agende seu atendimento</a>
+            <a className="button primary" href="tel:+556921831940">Agende seu atendimento</a>
             <a className="button secondary" href="#servicos">Conheça nossos serviços</a>
           </div>
           <div className="hero-note">
@@ -124,7 +124,7 @@ export default function Home() {
               procedimentos, entre em contato com a equipe da SOL.
             </p>
           </div>
-          <a className="button light" href="tel:+556932298039">Falar com a SOL</a>
+          <a className="button light" href="tel:+556921831940">Falar com a SOL</a>
         </div>
       </section>
 
@@ -138,7 +138,7 @@ export default function Home() {
         <div className="contact-grid">
           <div className="contact-card">
             <span className="contact-label">Endereço</span>
-            <strong>Avenida Aracaju, 1682, Sala 04</strong>
+            <strong>Avenida Aracaju, 1682</strong>
             <span>São Pedro • Ji-Paraná/RO • CEP 76913-602</span>
             <a
               href="https://www.google.com/maps/search/?api=1&query=Avenida%20Aracaju%2C%201682%2C%20Ji-Paran%C3%A1%20RO"
@@ -151,17 +151,12 @@ export default function Home() {
 
           <div className="contact-card">
             <span className="contact-label">Telefone</span>
-            <strong>(69) 3229-8039</strong>
+            <strong>(69) 2183-1940</strong>
             <span>Segunda a sexta • 8h às 18h</span>
-            <a href="tel:+556932298039">Ligar para a clínica →</a>
+            <a href="tel:+556921831940">Ligar para a clínica →</a>
           </div>
 
-          <div className="contact-card">
-            <span className="contact-label">E-mail</span>
-            <strong>administracao@soloftalmologia.com</strong>
-            <span>Canal institucional</span>
-            <a href="mailto:administracao@soloftalmologia.com">Enviar e-mail →</a>
-          </div>
+
         </div>
       </section>
 
