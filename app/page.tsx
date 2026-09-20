@@ -28,11 +28,7 @@ export default function Home() {
     <main className="site">
       <header className="nav">
         <a className="brand" href="#inicio" aria-label="SOL Oftalmologia - início">
-          <img className="brand-logo" src="/logo-sol.jpg" alt="SOL Oftalmologia" />
-          <span className="brand-text">
-            <strong>OFTALMOLOGIA</strong>
-            <small>Ji-Paraná • RO</small>
-          </span>
+          <span className="brand-name">SOL <small>OFTALMOLOGIA</small></span>
         </a>
 
         <nav className="nav-links" aria-label="Navegação principal">
